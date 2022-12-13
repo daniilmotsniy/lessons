@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/.idea/DoctorAppointments.iml
+/.idea/workspace.xml
+/.idea/vcs.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/misc.xml
